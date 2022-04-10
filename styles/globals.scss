@@ -218,7 +218,7 @@ a {
 }
 
 
-.myClassMobile {
+.myClass {
   font-size: min(25px, 15vw);
   opacity: 1;
   position: relative;
@@ -230,8 +230,8 @@ a {
   line-height: 1.45;
   box-sizing: border-box;
  
-  margin-left: 2.00em; // UPDATE MARGIN LEFT AND RIGHT SHOULD BE LESS FOR MOBILE 
-  margin-right: 5.75em;
+  // margin-left: 2.00em; // UPDATE MARGIN LEFT AND RIGHT SHOULD BE LESS FOR MOBILE 
+  // margin-right: 5.75em;
   // marginBlockStart: 0.83em;
   // marginBlockEnd: 0.83em;
   // marginInlineStart: 0px;

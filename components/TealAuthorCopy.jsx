@@ -261,7 +261,7 @@ const TealAuthor = () => {
 
 
                     {/* </div> */}
-                    <h2  className="montserrat text-sm mb-8 text-center myClassMobile md:myClassPC">I am a 19 year old college graduate with a passion for computer science. I like to think outside of the box and come up with innovative solutions to complex problems. This is an Instagram worthy blog/journal… or something of the sort - you’ll see! 😋</h2>
+                    <h2  className={`montserrat text-sm mb-8 text-center myClass sm:mr-12 lg:ml-28 lg:mr-40 xl:ml-40 xl:mr-64 2xl:ml-96 2xl:mr-96`}>I am a 19 year old college graduate with a passion for computer science. I like to think outside of the box and come up with innovative solutions to complex problems. This is an Instagram worthy blog/journal… or something of the sort - you’ll see! 😋</h2>
 
             
                     
