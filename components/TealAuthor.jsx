@@ -231,7 +231,7 @@ const TealAuthor = () => {
   return (
     <div>
         <section style={{myFirstStyle1}} // IMPORTANT
-        className="z-5 -mb-96 ml-36"
+        className="z-5 -mb-96 ml-36 2xl:ml-80"
         >
             
             <header style={myStyle4}>
